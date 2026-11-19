@@ -1,6 +1,6 @@
 # Mohinuddin Shaikh
 
-Personal portfolio: https://mohinuddinabdulrehmanshaikh.github.io
+Personal portfolio: https://mohinuddinshaikh.github.io
 
 A single self-contained page (`index.html`): HTML, CSS and plain JavaScript, no build step. GitHub Pages serves it straight from the `main` branch.
 
